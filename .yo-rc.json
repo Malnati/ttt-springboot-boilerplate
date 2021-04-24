@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "be.bnpparibasfortis"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "microservice",
+    "baseName": "tictactoe",
+    "packageName": "be.bnpparibasfortis",
+    "packageFolder": "be/bnpparibasfortis",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZDhkMGQ2ODQwMzAyZjAzNGIwNTAyOWZjMzRiNzgxMTQ0ZDMzMWMwN2QwYzg2ZmZmYzk0NmE2ZTUxNjU1MzU4M2QwMmFhYTU3NWI5NzhlNjcwNjM3ZmRlZDI3YzJiZTI4MjhmYTdjZWViOTM2YzkzNDM1ZTE1Y2NkYWRmOGQ1Mjk=",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
