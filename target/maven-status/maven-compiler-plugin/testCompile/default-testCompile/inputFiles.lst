@@ -1,0 +1,14 @@
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\web\rest\TestUtil.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\config\WebConfigurerTestController.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\cucumber\stepdefs\StepDefs.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\config\timezone\HibernateTimeZoneIT.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\cucumber\CucumberContextConfiguration.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\security\SecurityUtilsUnitTest.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\security\jwt\JWTFilterTest.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\web\rest\errors\ExceptionTranslatorIT.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\cucumber\CucumberIT.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\config\WebConfigurerTest.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\repository\timezone\DateTimeWrapperRepository.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\web\rest\errors\ExceptionTranslatorTestController.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\repository\timezone\DateTimeWrapper.java
+C:\Users\mbra\blog\src\test\java\be\bnpparibasfortis\security\jwt\TokenProviderTest.java
